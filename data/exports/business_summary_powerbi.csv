@@ -1,0 +1,3 @@
+top80_consumer,countries,avg_actual_consumption_TWh,avg_absolute_error_TWh,error_pct_of_consumption
+other countries,102.0,2.7924353876739563,0.5530613852257981,19.805700345549887
+top-80% consumption countries,5.0,140.79964,11.972333946666666,8.503099828001453

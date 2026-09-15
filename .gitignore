@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+catboost_info/
+notebooks/catboost_info/
+.DS_Store
+DECISION_LOG.md

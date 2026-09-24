@@ -1,7 +1,7 @@
 # Global biofuels consumption: modeling and country ranking
 
 Predicting biofuels consumption by country and translating the results
-into business metrics (CAGR, market penetration, regional ranking).
+into business metrics (CAGR (Compound Annual Growth Rate), market penetration, regional ranking).
 
 ## Problem
 
